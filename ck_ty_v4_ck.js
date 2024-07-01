@@ -1,6 +1,6 @@
 try {
     // Set the survival mins for local storage data
-    // var ckSurvivalMinutes = 1 * 24 * 60; // in mins
+    var ckSurvivalMinutes = 1 * 24 * 60; // in mins
     // for 7 days // var ckSurvivalMinutes = 7*24*60 
     // Extract order details from Shopify variables
     // var ck_order_id = '3895479'; // Combine order ID and name

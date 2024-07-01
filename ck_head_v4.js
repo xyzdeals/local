@@ -1,6 +1,6 @@
 try {
     console.log('ck head script initiated')
-    // var ckSurvivalMinutes = 30; //in mins
+    var ckSurvivalMinutes = 1*24*60; //in mins
     // for 7 days var ckSurvivalMinutes = 7*24*60 
     // Define the number of mins for cookie survival
 
